@@ -44,10 +44,13 @@ class Solution {
             return head;
         }
 
-        ListNode newHead = reverse(head.next);
-        head.next.next = head;
-        head.next = null;
-
-        return newHead;
+        ListNode prev = null, curr = head;
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
     }
 }
