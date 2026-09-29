@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0252-meeting-rooms](https://github.com/quyanhle/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0704-binary-search](https://github.com/quyanhle/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/quyanhle/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Binary Search
@@ -112,4 +113,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/quyanhle/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0252-meeting-rooms](https://github.com/quyanhle/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0252-meeting-rooms](https://github.com/quyanhle/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 <!---LeetCode Topics End-->
