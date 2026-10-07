@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/quyanhle/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0257-binary-tree-paths](https://github.com/quyanhle/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0392-is-subsequence](https://github.com/quyanhle/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/quyanhle/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/quyanhle/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -145,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/quyanhle/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/quyanhle/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
