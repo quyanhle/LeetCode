@@ -13,7 +13,7 @@ class Solution {
                 int outIdx = s.charAt(left) - 'A';
                 freq[outIdx]--;
                 left++;
-                //maxFreq = Math.max(maxFreq, freq[outIdx]);
+                maxFreq = Math.max(maxFreq, freq[outIdx]);
             }
             res = Math.max(res, i-left+1);
         }
