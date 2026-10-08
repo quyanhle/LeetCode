@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/quyanhle/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/quyanhle/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/quyanhle/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/quyanhle/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/quyanhle/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0704-binary-search](https://github.com/quyanhle/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/quyanhle/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/quyanhle/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/quyanhle/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -162,4 +164,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/quyanhle/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/quyanhle/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/quyanhle/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/quyanhle/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 <!---LeetCode Topics End-->
