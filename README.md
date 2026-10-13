@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/quyanhle/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/quyanhle/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/quyanhle/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0986-interval-list-intersections](https://github.com/quyanhle/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/quyanhle/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/quyanhle/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/quyanhle/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0986-interval-list-intersections](https://github.com/quyanhle/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/quyanhle/LeetCode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/quyanhle/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/quyanhle/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
