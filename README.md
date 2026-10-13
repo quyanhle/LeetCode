@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/quyanhle/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/quyanhle/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/quyanhle/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0252-meeting-rooms](https://github.com/quyanhle/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/quyanhle/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/quyanhle/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0704-binary-search](https://github.com/quyanhle/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/quyanhle/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/quyanhle/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/quyanhle/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/quyanhle/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0252-meeting-rooms](https://github.com/quyanhle/LeetCode/tree/main/0252-meeting-rooms/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/quyanhle/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/quyanhle/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/quyanhle/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 <!---LeetCode Topics End-->
