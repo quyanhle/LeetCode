@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/quyanhle/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/quyanhle/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0261-graph-valid-tree](https://github.com/quyanhle/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/quyanhle/LeetCode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/quyanhle/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/quyanhle/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/quyanhle/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/quyanhle/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/quyanhle/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0261-graph-valid-tree](https://github.com/quyanhle/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/quyanhle/LeetCode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/quyanhle/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/quyanhle/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/quyanhle/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -220,8 +222,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0261-graph-valid-tree](https://github.com/quyanhle/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/quyanhle/LeetCode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0261-graph-valid-tree](https://github.com/quyanhle/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/quyanhle/LeetCode/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 <!---LeetCode Topics End-->
