@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/quyanhle/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/quyanhle/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/quyanhle/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0261-graph-valid-tree](https://github.com/quyanhle/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/quyanhle/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/quyanhle/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/quyanhle/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/quyanhle/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/quyanhle/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/quyanhle/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0261-graph-valid-tree](https://github.com/quyanhle/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/quyanhle/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/quyanhle/LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/quyanhle/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -214,4 +216,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/quyanhle/LeetCode/tree/main/0986-interval-list-intersections/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0261-graph-valid-tree](https://github.com/quyanhle/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0261-graph-valid-tree](https://github.com/quyanhle/LeetCode/tree/main/0261-graph-valid-tree/) | Medium |
 <!---LeetCode Topics End-->
