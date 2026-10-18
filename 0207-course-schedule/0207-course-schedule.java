@@ -1,0 +1,31 @@
+class Solution {
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+        List<List<Integer>> graph = new ArrayList<>();
+        for (int i = 0; i < numCourses; i++) {
+            graph.add(new ArrayList<>());
+        }
+        for (int[] p : prerequisites) {
+            graph.get(p[1]).add(p[0]);
+        }
+
+        int[] state = new int[numCourses];
+        for (int i = 0; i < numCourses; i++) {
+            if (dfs(graph, state, i)) {
+                return false;
+            }
+        }
+        return true;     
+    }
+
+    private boolean dfs(List<List<Integer>> graph, int[] state, int node) {
+        if (state[node] == 1) return true;
+        if (state[node] == 2) return false;
+
+        state[node] = 1;
+        for (int next : graph.get(node)) {
+            if (dfs(graph, state, next)) return true;
+        }
+        state[node] = 2;
+        return false;
+    }     
+}
