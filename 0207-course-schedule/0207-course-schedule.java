@@ -1,31 +1,35 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> graph = new ArrayList<>();
-        for (int i = 0; i < numCourses; i++) {
-            graph.add(new ArrayList<>());
-        }
-        for (int[] p : prerequisites) {
-            graph.get(p[1]).add(p[0]);
-        }
-
+        ArrayList<ArrayList<Integer>> list = new ArrayList<>();
         int[] state = new int[numCourses];
-        for (int i = 0; i < numCourses; i++) {
-            if (dfs(graph, state, i)) {
+        for(int i = 0; i < numCourses; i++) {
+            list.add(new ArrayList<>());
+        }
+        for(int[] arr : prerequisites) {
+            list.get(arr[1]).add(arr[0]);
+        }
+        for (int i = 0; i< numCourses; i++) {
+            if (!dfs(list, i, state)) {
                 return false;
             }
         }
-        return true;     
+        return true;
     }
 
-    private boolean dfs(List<List<Integer>> graph, int[] state, int node) {
-        if (state[node] == 1) return true;
-        if (state[node] == 2) return false;
-
-        state[node] = 1;
-        for (int next : graph.get(node)) {
-            if (dfs(graph, state, next)) return true;
+    private boolean dfs (ArrayList<ArrayList<Integer>> list, int curr, int[] state) {
+        if (state[curr] == 1) {
+            return false;
         }
-        state[node] = 2;
-        return false;
-    }     
+        if (state[curr] == 2) {
+            return true;
+        }
+        state[curr] = 1;
+        for (int l : list.get(curr)) {
+            if (!dfs(list, l, state)) {
+                return false;
+            }
+        }
+        state[curr] = 2;
+        return true; 
+    }
 }
